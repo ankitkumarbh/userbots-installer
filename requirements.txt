@@ -2,6 +2,7 @@ pylast
 telethon
 wheel
 requests
+curl_cffi
 psutil
 aiohttp
 Pillow
